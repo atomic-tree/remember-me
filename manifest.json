@@ -2,6 +2,7 @@
   "name": "GitHub Activity Monitor",
   "version": "0.0.0.1",
   "manifest_version": 2,
+  "default_locale": "en",
   "description": "A Microsoft Edge extension to display my activity on the GitHub.",
   "icons": {
     "16": "icons/remember-me-16x16.png",
